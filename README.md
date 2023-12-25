@@ -14,3 +14,8 @@ file_editor is a result of "Sed is for Losers", a C++ language exercise made in 
 **Run the program:**
 
 - Insert `./file_editor [file] [S1] [S2]`.
+
+
+--
+
+**Note**: If you are a student at 42, please be aware that this project may have been modified in relation to the project that was submitted for evaluation during the course. You can take it as a reference for your studies, but not as a parameter for correcting your project.
