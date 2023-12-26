@@ -39,7 +39,7 @@ Report bugs sending an email for matavelidanilo@gmail.com or opening an issue on
 
 ## Supported OSs
 
-file_editor was developed and tested in a GNU/Linux Debiam based system (Ubuntu 22.04 LTS). 
+file_editor was developed and tested in a GNU/Linux Debian based system (Ubuntu 22.04 LTS). 
 
 ## 42 cursus students
 
