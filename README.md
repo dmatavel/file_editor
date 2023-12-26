@@ -31,7 +31,7 @@ If you downloaded the zip file, extract it and enter the **file_editor-main** fo
 
 An executable named **file_editor** will be created. After that, run the program with:
 
-    ./file_editor [file] [s1] [s2].
+    ./file_editor [file] [s1] [s2]
 
 ## Bugs and contribution
 
@@ -39,12 +39,11 @@ Report bugs sending an email for matavelidanilo@gmail.com or opening an issue on
 
 ## Supported OSs
 
-file_editor was developed and tested in a GNU/Linux Debian based system (Ubuntu 22.04 LTS). 
+file_editor was developed and tested in Ubuntu 22.04 LTS. 
 
 ## 42 cursus students
 
-file_editor is a result of "Sed is for Losers", a C++ language exercise made in 42 cursus. 
-If you are a student at 42, please be aware that this project may have been modified in relation to the project that was submitted for evaluation during the course. You can take it as a reference for your studies, but not as a parameter for correcting your project.
+file_editor is a result of "Sed is for Losers", a C++ language exercise made in 42 cursus. If you are a student at 42, please be aware that this project may have been modified in relation to the project that was submitted for evaluation during the course. You can take it as a reference for your studies, but not as a parameter for correcting your project.
 
 ## License
 
