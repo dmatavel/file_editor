@@ -25,7 +25,23 @@ It assumes that you have [Git](https://git-scm.com/) installed and a **Downloads
 
 ## Compilation and execution
 
-If you downloaded the zip file, extract it and enter the **file_editor-main** folder. With a right click on your file browser, select the option **Open in Terminal** or something like that. If you've cloned the repository, simple go inside the program's directory. Copy and paste or write in your terminal:
+1. Skip this step if you have **[gcc](https://gcc.gnu.org/)** installed.
+
+Assuming that you are using Ubuntu 22.04 or 20.04, update your system executing in your terminal:
+
+    sudo apt update
+
+followed by
+
+    sudo apt upgrade
+
+Install **gcc** with:
+
+    sudo apt install build-essential
+
+2. If you downloaded the zip file, extract it and enter the **file_editor-main** folder. With a right click on your file browser, select the option **Open in Terminal** or something like that.
+
+If you've cloned the repository, simple go inside the program's directory. Copy and paste or write in your terminal:
 
     make file_editor
 
@@ -51,7 +67,7 @@ This is a free work delivered for educational purposes during the main course
 at 42 <42.rio>.
 
 Feel free to use it, change it, give advices, send me a pull request or
-just slack me if you want to share some thoughts.
+just mail me if you want to share some thoughts.
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
